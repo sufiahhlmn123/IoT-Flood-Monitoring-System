@@ -189,9 +189,9 @@ IoT-Flood-Monitoring-System/
 
 ## 👩‍💻 Author
 
-**Aisyah Aina Sufia binti Hilman**
-Diploma in Computer Science, Kolej Profesional MARA Beranang (2022/2023)
-🔗 GitHub: [@aisyahhlmn](https://github.com/aisyahhlmn)
+**Aisyah Aina Sufia Hilman**
+Diploma in Computer Science, Kolej Profesional MARA Beranang (2023/2024)
+
 
 ---
 
@@ -203,4 +203,4 @@ Diploma in Computer Science, Kolej Profesional MARA Beranang (2022/2023)
 
 ---
 
-<p align="center"><i>Built to keep people — and their cars — one step ahead of the flood. 🌧️➡️🛡️</i></p>
+<p align="center"><i>Built to keep people — and their cars — one step ahead of the flood. 🌧️🛡️</i></p>
