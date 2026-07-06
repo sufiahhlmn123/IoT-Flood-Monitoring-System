@@ -45,7 +45,7 @@ The video walks through the hardware build, live water-level detection, LED/buzz
 
 ## 📖 Overview
 
-Flooding is one of Malaysia's most frequent and damaging natural disasters. This project was developed after a heavy thunderstorm flooded the field of **Kolej Profesional MARA Beranang (KPMB)** in June 2022 — water that could easily flow down to the guardhouse (the campus's lowest point) and the nearby student car park.
+Flooding is one of Malaysia's most frequent and damaging natural disasters. This project was developed after a heavy thunderstorm flooded the field of **Kolej Profesional MARA Beranang (KPMB)** in June 2023 — water that could easily flow down to the guardhouse (the campus's lowest point) and the nearby student car park.
 
 The **IoT-Based Flood Monitoring System** provides a low-cost early-warning solution. An ultrasonic sensor continuously measures the distance to the water surface. As the water rises, the distance shrinks — and once it crosses a critical threshold, the system triggers **local alerts** (LED + buzzer) and simultaneously logs the reading to the **ThingSpeak IoT cloud**, so it can be monitored in real time from anywhere in the world.
 
